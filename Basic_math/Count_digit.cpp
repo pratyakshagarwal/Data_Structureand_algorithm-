@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+using namespace std;
 int countDigits(int n){
 	int count = 0;	
 	string numStr = to_string(n);
