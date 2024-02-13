@@ -1,4 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
 bool checkArmstrong(int n){
 	if (n == 0) {
         return false;
